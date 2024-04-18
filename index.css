@@ -1,0 +1,17 @@
+*{
+    background-color:white;
+}
+h1{
+    color: red;
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+#query{
+    color: antiquewhite;
+    height: 50px;
+    width: 500px;
+}
+div{
+    border: 1px solid white;
+}
